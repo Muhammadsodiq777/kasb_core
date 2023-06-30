@@ -8,7 +8,7 @@ public class GptApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GptApplication.class, args);
-        System.out.println("Started!!!");
+        System.out.println("System is started!!!");
     }
 
 }

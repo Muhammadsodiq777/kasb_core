@@ -1,3 +1,16 @@
+D:\2.PersonalWork\gpt\src\main\java\uz\gpt\gpt\controller\GptController.java
+D:\2.PersonalWork\gpt\src\main\java\uz\gpt\gpt\service\impl\GtpServiceImpl.java
+D:\2.PersonalWork\gpt\src\main\java\uz\gpt\gpt\dto\gpt_request_dto\GPTMainModel.java
+D:\2.PersonalWork\gpt\src\main\java\uz\gpt\gpt\dto\request\ChatRequestDto.java
+D:\2.PersonalWork\gpt\src\main\java\uz\gpt\gpt\service\GtpService.java
+D:\2.PersonalWork\gpt\src\main\java\uz\gpt\gpt\dto\gpt_response_dto\Choice.java
+D:\2.PersonalWork\gpt\src\main\java\uz\gpt\gpt\dto\gpt_response_dto\Message.java
 D:\2.PersonalWork\gpt\src\main\java\uz\gpt\gpt\controller\UserController.java
+D:\2.PersonalWork\gpt\src\main\java\uz\gpt\gpt\dto\response\ChatResponseDto.java
+D:\2.PersonalWork\gpt\src\main\java\uz\gpt\gpt\dto\response\ProfessionListDto.java
 D:\2.PersonalWork\gpt\src\main\java\uz\gpt\gpt\domain\UserEntity.java
+D:\2.PersonalWork\gpt\src\main\java\uz\gpt\gpt\dto\GeneralResponse.java
+D:\2.PersonalWork\gpt\src\main\java\uz\gpt\gpt\dto\gpt_response_dto\Usage.java
 D:\2.PersonalWork\gpt\src\main\java\uz\gpt\gpt\GptApplication.java
+D:\2.PersonalWork\gpt\src\main\java\uz\gpt\gpt\dto\gpt_response_dto\ChatCompletionResponse.java
+D:\2.PersonalWork\gpt\src\main\java\uz\gpt\gpt\dto\gpt_request_dto\GptMessages.java
