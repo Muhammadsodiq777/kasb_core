@@ -40,7 +40,7 @@ public class GtpServiceImpl implements GtpService {
 
     @Override
     public GeneralResponse<ChatResponseDto> chatWithGPT(ChatRequestDto dto) throws IOException {
-        String apiKey = "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";
+        String apiKey = "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";
 
         // Set the API endpoint URL
         String apiUrl = "https://api.openai.com/v1/chat/completions";
